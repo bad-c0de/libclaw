@@ -1,5 +1,6 @@
 # libclaw
-libclaw is a web requests library written in C that can send http/https requests and recieve responses
+libclaw is a web requests library written in C that can send http/https requests and recieve responses.
+DESCLAIMER: This is my first library ever so I'm sorry for any bug that you encounter.
 
 # Installation
 Clone the Repo:
